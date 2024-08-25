@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/qui-dolor-aliquam-sapiente",
-  "version": "3.7.115",
+  "version": "4.7.115",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -280,5 +280,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/qui-dolor-aliquam-sapiente/issues"
   },
-  "packageManager": "yarn@4.4.0"
+  "packageManager": "yarn@4.4.1"
 }
